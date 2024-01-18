@@ -1,8 +1,0 @@
-Всё делать в папке портфолио или как-то так в которой нужный файл ворд
-git init
-git config --global user.name "Матевосян Гагик"
-git config --global user.email "почта"
-git add --all
-git commit -m "добавляю файл"
-git remote add origin https://github.com/gagikmatevosyan/-.git
-git push -u origin master
